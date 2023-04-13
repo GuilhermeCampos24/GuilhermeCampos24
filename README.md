@@ -1,4 +1,4 @@
-### Ola! sou o Guilherme
+### Olá! sou o Guilherme *-*
 
 -💻 Cursando ciência da computação na Universidade Federal de São Paulo (UNIFESP - ICT)
 
