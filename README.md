@@ -2,7 +2,7 @@
 
 -💻 Cursando ciência da computação na Universidade Federal de São Paulo (UNIFESP - ICT)
 
--🎈 Estudando tecnologias web e programando em C
+-🎈 Estudando novas tecnologias e programando em C
 
 <hr>
 
